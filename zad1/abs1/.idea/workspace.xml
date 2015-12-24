@@ -132,7 +132,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="exportdata&#9;PSI&#9;JAVA://Exporter#ExportData" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -510,12 +510,12 @@
       <workItem from="1450832476670" duration="8263000" />
       <workItem from="1450900192595" duration="13078000" />
       <workItem from="1450953803781" duration="640000" />
-      <workItem from="1450965014340" duration="11821000" />
+      <workItem from="1450965014340" duration="12289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35171000" />
+    <option name="totallyTimeSpent" value="35639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
